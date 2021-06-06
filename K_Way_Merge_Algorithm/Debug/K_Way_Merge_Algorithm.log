@@ -1,0 +1,12 @@
+﻿  kWayMergeAlgorithm.cpp
+C:\Users\avivm\Desktop\MTA\2nd_year\2nd_semester\Data_Structures\Exercises\Ex2_programming\K_Way_Merge_Algorithm\K_Way_Merge_Algorithm\kWayMergeAlgorithm.cpp(5,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\avivm\Desktop\MTA\2nd_year\2nd_semester\Data_Structures\Exercises\Ex2_programming\K_Way_Merge_Algorithm\K_Way_Merge_Algorithm\kWayMergeAlgorithm.cpp(18,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\avivm\Desktop\MTA\2nd_year\2nd_semester\Data_Structures\Exercises\Ex2_programming\K_Way_Merge_Algorithm\K_Way_Merge_Algorithm\kWayMergeAlgorithm.cpp(23,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\avivm\Desktop\MTA\2nd_year\2nd_semester\Data_Structures\Exercises\Ex2_programming\K_Way_Merge_Algorithm\K_Way_Merge_Algorithm\kWayMergeAlgorithm.cpp(66,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\avivm\Desktop\MTA\2nd_year\2nd_semester\Data_Structures\Exercises\Ex2_programming\K_Way_Merge_Algorithm\K_Way_Merge_Algorithm\kWayMergeAlgorithm.cpp(68,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\avivm\Desktop\MTA\2nd_year\2nd_semester\Data_Structures\Exercises\Ex2_programming\K_Way_Merge_Algorithm\K_Way_Merge_Algorithm\kWayMergeAlgorithm.cpp(73,48): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\avivm\Desktop\MTA\2nd_year\2nd_semester\Data_Structures\Exercises\Ex2_programming\K_Way_Merge_Algorithm\K_Way_Merge_Algorithm\kWayMergeAlgorithm.cpp(75,83): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  minHeap.cpp
+  Generating Code...
+  K_Way_Merge_Algorithm.vcxproj -> C:\Users\avivm\Desktop\MTA\2nd_year\2nd_semester\Data_Structures\Exercises\Ex2_programming\K_Way_Merge_Algorithm\Debug\K_Way_Merge_Algorithm.exe
